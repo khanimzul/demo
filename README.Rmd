@@ -1,0 +1,11 @@
+---
+output: github_document
+---
+
+#add a title
+Explain what your package is doing herer
+
+To install my package:
+
+```{r,eval=FALSE}
+devtools::install_github("khanimzul/demo")
